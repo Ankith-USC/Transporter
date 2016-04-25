@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 93fcfdd48edb0419ca2d39bfd4df81f6
+timeCreated: 1457164480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: girl_sprite_0
+    21300002: girl_sprite_2
+    21300004: girl_sprite_5
+    21300006: girl_sprite_6
+    21300008: girl_sprite_13
+    21300010: girl_sprite_15
+    21300012: girl_sprite_17
+    21300014: girl_sprite_19
+    21300016: girl_sprite_26
+    21300018: girl_sprite_28
+    21300020: girl_sprite_29
+    21300022: girl_sprite_30
+    21300024: girl_sprite_36
+    21300026: girl_sprite_37
+    21300028: girl_sprite_39
+    21300030: girl_sprite_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: girl_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 193
+        width: 29
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 30
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 193
+        width: 26
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 191
+        width: 27
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 28
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 28
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 131
+        width: 27
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 129
+        width: 26
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 25
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 66
+        width: 28
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 26
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 28
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 27
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 28
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: girl_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 28
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
